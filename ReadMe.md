@@ -1,0 +1,1 @@
+This repository was created for learning how to work with the Git.
